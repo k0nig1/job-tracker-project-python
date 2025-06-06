@@ -1,0 +1,47 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and environment
+*.log
+.env
+*.env
+
+# Test output and coverage
+htmlcov/
+.tox/
+.coverage
+.cache
+pytest_cache/
+
+# Compiled C files
+*.so
+
+# Data/output files
+data/jobs.json
+data/report.csv
+
+# Temporary files
+*.bak
+*.tmp
+*.swp

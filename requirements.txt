@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+PyMuPDF
+matplotlib
+click
+pytest

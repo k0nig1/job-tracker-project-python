@@ -1,0 +1,1 @@
+python main.py --resume data/resume.pdf --output data/report.csv --title developer --location remote

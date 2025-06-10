@@ -78,9 +78,9 @@ pytest tests/
 
 ## 🔧 To-Do
 
-x Add visualization dashboard (e.g., Dash or Streamlit)
+- [Done] Add visualization dashboard (e.g., Dash or Streamlit)
 - Add NLP-based keyword extraction (spaCy or NLTK)
-x Add support for multiple job boards
+- [Done] Add support for multiple job boards
 
 ## 📄 License
 

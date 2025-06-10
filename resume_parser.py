@@ -1,4 +1,4 @@
-import fitz  # PyMuPDF
+import fitz  # For extracting text from PDF resumes
 import re
 import logging
 

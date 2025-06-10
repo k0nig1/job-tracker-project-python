@@ -10,4 +10,9 @@ else
     echo "Or, don't forget to delete the 'venv' directory if you no longer need it."
     # Deactivate the virtual environment
     deactivate
+
+    rm -rf venv
+    echo "Virtual environment 'venv' removed."
+    echo "---------------------------------------------------------"
+    echo "You can now safely close the terminal or continue with other tasks."
 fi

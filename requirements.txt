@@ -5,3 +5,5 @@ PyMuPDF
 matplotlib
 click
 pytest
+streamlit
+tabulate

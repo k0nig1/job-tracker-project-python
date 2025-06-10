@@ -16,9 +16,9 @@ This Python project helps you automate the process of tracking job postings and 
 - requests
 - pandas
 - PyMuPDF (fitz)
-- matplotlib (optional for future visualizations)
 - click & argparse
 - pytest
+- Streamlit (for Browser GUI functionality)
 
 ## 📦 Installation
 
@@ -26,7 +26,7 @@ This Python project helps you automate the process of tracking job postings and 
 git clone https://github.com/yourusername/job-tracker-project-python.git
 cd job-tracker-project-python
 python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -78,9 +78,9 @@ pytest tests/
 
 ## 🔧 To-Do
 
-- Add visualization dashboard (e.g., Dash or Streamlit)
+x Add visualization dashboard (e.g., Dash or Streamlit)
 - Add NLP-based keyword extraction (spaCy or NLTK)
-- Add support for multiple job boards
+x Add support for multiple job boards
 
 ## 📄 License
 
